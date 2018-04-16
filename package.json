@@ -1,0 +1,25 @@
+{
+  "name": "react-native-popup-modal",
+  "version": "1.0.0",
+  "description": "Display customized content in modal window like popup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPeproni/React-Native-Popup.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "popup",
+    "modal"
+  ],
+  "author": "MrPeproni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrPeproni/React-Native-Popup/issues"
+  },
+  "homepage": "https://github.com/MrPeproni/React-Native-Popup#readme"
+}
